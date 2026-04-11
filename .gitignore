@@ -1,0 +1,16 @@
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Programming language junk
+node_modules/
+*.log
+__pycache__/
+bin/
+obj/
+
+# IDE settings
+.vscode/
+.idea/
